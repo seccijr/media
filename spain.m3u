@@ -1,443 +1,333 @@
 #EXTM3U
-#EXTINF:-1,LA 1 FHD
-http://amazontv.me:8519/4670115788/5623525065/780
-#EXTINF:-1,LA 2 FHD
-http://amazontv.me:8519/4670115788/5623525065/782
-#EXTINF:-1 tvg-id="LA 2",LA 2
-http://amazontv.me:8519/4670115788/5623525065/783
-#EXTINF:-1,ANTENA 3 FHD
-http://amazontv.me:8519/4670115788/5623525065/784
-#EXTINF:-1 tvg-id="Antena 3",ANTENA 3
-http://amazontv.me:8519/4670115788/5623525065/785
-#EXTINF:-1,CUATRO FHD
-http://amazontv.me:8519/4670115788/5623525065/786
-#EXTINF:-1 tvg-id="Cuatro",CUATRO
-http://amazontv.me:8519/4670115788/5623525065/787
-#EXTINF:-1,TELECINCO FHD
-http://amazontv.me:8519/4670115788/5623525065/788
-#EXTINF:-1,TELECINCO
-http://amazontv.me:8519/4670115788/5623525065/789
-#EXTINF:-1,LA SEXTA FHD
-http://amazontv.me:8519/4670115788/5623525065/790
-#EXTINF:-1,LA SEXTA
-http://amazontv.me:8519/4670115788/5623525065/791
-#EXTINF:-1,NEOX
-http://amazontv.me:8519/4670115788/5623525065/792
-#EXTINF:-1 tvg-id="Nova",NOVA
-http://amazontv.me:8519/4670115788/5623525065/793
-#EXTINF:-1 tvg-id="Divinity",DIVINITY
-http://amazontv.me:8519/4670115788/5623525065/794
-#EXTINF:-1 tvg-id="Energy",ENERGY
-http://amazontv.me:8519/4670115788/5623525065/795
-#EXTINF:-1,Clan TVE FHD
-http://amazontv.me:8519/4670115788/5623525065/796
-#EXTINF:-1,Clan TVE
-http://amazontv.me:8519/4670115788/5623525065/797
-#EXTINF:-1,FDF
-http://amazontv.me:8519/4670115788/5623525065/798
-#EXTINF:-1 tvg-id="Mega",MEGA HD
-http://amazontv.me:8519/4670115788/5623525065/800
-#EXTINF:-1,Euro News HD
-http://amazontv.me:8519/4670115788/5623525065/68024
-#EXTINF:-1,CANAL 8
-http://amazontv.me:8519/4670115788/5623525065/959
-#EXTINF:-1,Bon Dia HD
-http://amazontv.me:8519/4670115788/5623525065/957
-#EXTINF:-1 tvg-id="Canal Sur HD",CANAL SUR 1 HD
-http://amazontv.me:8519/4670115788/5623525065/802
-#EXTINF:-1,CANAL SUR 2
-http://amazontv.me:8519/4670115788/5623525065/803
-#EXTINF:-1,Telenovelas
-http://amazontv.me:8519/4670115788/5623525065/805
-#EXTINF:-1,24 HORAS
-http://amazontv.me:8519/4670115788/5623525065/812
-#EXTINF:-1,TVE Internacional
-http://amazontv.me:8519/4670115788/5623525065/69662
-#EXTINF:-1,TV3 CAST
-http://amazontv.me:8519/4670115788/5623525065/69663
-#EXTINF:-1,FOX NEWS
-http://amazontv.me:8519/4670115788/5623525065/69664
-#EXTINF:-1,TELE MADRID FHD
-http://amazontv.me:8519/4670115788/5623525065/184294
-#EXTINF:-1,LA OTRA FHD
-http://amazontv.me:8519/4670115788/5623525065/184295
-#EXTINF:-1,ATRE SERIES HD
-http://amazontv.me:8519/4670115788/5623525065/799
-#EXTINF:-1 tvg-id="Arag?n TV",ARAGON TV
-http://amazontv.me:8519/4670115788/5623525065/806
-#EXTINF:-1,CANAL ORBE21
-http://amazontv.me:8519/4670115788/5623525065/807
-#EXTINF:-1,TV Galicia
-http://amazontv.me:8519/4670115788/5623525065/810
-#EXTINF:-1,TV Galicia 2
-http://amazontv.me:8519/4670115788/5623525065/933
-#EXTINF:-1,BE MAD HD
-http://amazontv.me:8519/4670115788/5623525065/811
-#EXTINF:-1 tvg-id="ETB 1",ETB 1 HD
-http://amazontv.me:8519/4670115788/5623525065/815
-#EXTINF:-1 tvg-id="ETB 2",ETB 2 HD
-http://amazontv.me:8519/4670115788/5623525065/816
-#EXTINF:-1,TRECE
-http://amazontv.me:8519/4670115788/5623525065/929
-#EXTINF:-1,EL TORO TV HD
-http://amazontv.me:8519/4670115788/5623525065/184293
-#EXTINF:-1,M+ FHD
-http://amazontv.me:8519/4670115788/5623525065/820
-#EXTINF:-1,M+ HD
-http://amazontv.me:8519/4670115788/5623525065/821
-#EXTINF:-1,M+ CINE FHD
-http://amazontv.me:8519/4670115788/5623525065/826
-#EXTINF:-1,M+ CINE
-http://amazontv.me:8519/4670115788/5623525065/827
-#EXTINF:-1,M+ ACCI?N FHD
-http://amazontv.me:8519/4670115788/5623525065/824
-#EXTINF:-1,M+ ACCI?N
-http://amazontv.me:8519/4670115788/5623525065/825
-#EXTINF:-1,M+ INDIE FHD
-http://amazontv.me:8519/4670115788/5623525065/92580
-#EXTINF:-1,M+ INDIE
-http://amazontv.me:8519/4670115788/5623525065/92581
-#EXTINF:-1,M+ Drama FHD
-http://amazontv.me:8519/4670115788/5623525065/828
-#EXTINF:-1,M+ Drama
-http://amazontv.me:8519/4670115788/5623525065/829
-#EXTINF:-1,M+ COMEDIA FHD
-http://amazontv.me:8519/4670115788/5623525065/830
-#EXTINF:-1,M+ COMEDIA
-http://amazontv.me:8519/4670115788/5623525065/831
-#EXTINF:-1,M+ SERIES FHD
-http://amazontv.me:8519/4670115788/5623525065/832
-#EXTINF:-1,M+ SERIES
-http://amazontv.me:8519/4670115788/5623525065/833
-#EXTINF:-1,M+ SUSPENSE FHD
-http://amazontv.me:8519/4670115788/5623525065/92582
-#EXTINF:-1,M+ SUSPENSE
-http://amazontv.me:8519/4670115788/5623525065/92583
-#EXTINF:-1,M+ Cine Espanol
-http://amazontv.me:8519/4670115788/5623525065/838
-#EXTINF:-1,M+ CLASSICOS FHD
-http://amazontv.me:8519/4670115788/5623525065/836
-#EXTINF:-1,M+ CLASSICOS
-http://amazontv.me:8519/4670115788/5623525065/837
-#EXTINF:-1,M+ LA RESISTENCIA FHD
-http://amazontv.me:8519/4670115788/5623525065/184280
-#EXTINF:-1,M+ LA RESISTENCIA
-http://amazontv.me:8519/4670115788/5623525065/184281
 #EXTINF:-1,AMC FHD
-http://amazontv.me:8519/4670115788/5623525065/822
-#EXTINF:-1 tvg-id="AMC",AMC
-http://amazontv.me:8519/4670115788/5623525065/823
-#EXTINF:-1,AMC BREAK FHD
-http://amazontv.me:8519/4670115788/5623525065/184291
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1909
 #EXTINF:-1,AXN FHD
-http://amazontv.me:8519/4670115788/5623525065/840
-#EXTINF:-1 tvg-id="AXN",AXN
-http://amazontv.me:8519/4670115788/5623525065/841
-#EXTINF:-1,AXN WHITE FHD
-http://amazontv.me:8519/4670115788/5623525065/842
-#EXTINF:-1 tvg-id="AXN Movies",AXN WHITE
-http://amazontv.me:8519/4670115788/5623525065/843
-#EXTINF:-1,FOX FHD
-http://amazontv.me:8519/4670115788/5623525065/844
-#EXTINF:-1 tvg-id="Fox",FOX
-http://amazontv.me:8519/4670115788/5623525065/845
-#EXTINF:-1,COSMO FHD
-http://amazontv.me:8519/4670115788/5623525065/848
-#EXTINF:-1 tvg-id="COSMO",COSMO
-http://amazontv.me:8519/4670115788/5623525065/849
-#EXTINF:-1,WARNER TV
-http://amazontv.me:8519/4670115788/5623525065/851
-#EXTINF:-1,SYFY
-http://amazontv.me:8519/4670115788/5623525065/853
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1910
 #EXTINF:-1,CALLE 13 FHD
-http://amazontv.me:8519/4670115788/5623525065/854
-#EXTINF:-1,CALLE 13
-http://amazontv.me:8519/4670115788/5623525065/855
-#EXTINF:-1,SUNDANCE TV
-http://amazontv.me:8519/4670115788/5623525065/856
-#EXTINF:-1,BOM CINE FHD
-http://amazontv.me:8519/4670115788/5623525065/814
-#EXTINF:-1,BOM CINE HD
-http://amazontv.me:8519/4670115788/5623525065/184292
-#EXTINF:-1,HOLLYWOOD FHD
-http://amazontv.me:8519/4670115788/5623525065/857
-#EXTINF:-1 tvg-id="Hollywood",HOLLYWOOD
-http://amazontv.me:8519/4670115788/5623525065/858
-#EXTINF:-1,PARAMOUNT
-http://amazontv.me:8519/4670115788/5623525065/859
-#EXTINF:-1 tvg-id="Comedy Central",COMEDY CENTRAL
-http://amazontv.me:8519/4670115788/5623525065/861
-#EXTINF:-1,TCM HD
-http://amazontv.me:8519/4670115788/5623525065/69666
-#EXTINF:-1 tvg-id="TCM",TCM
-http://amazontv.me:8519/4670115788/5623525065/70050
-#EXTINF:-1,DARK TV HD
-http://amazontv.me:8519/4670115788/5623525065/817
-#EXTINF:-1,SOMOS HD
-http://amazontv.me:8519/4670115788/5623525065/69667
-#EXTINF:-1,XTRM FHD
-http://amazontv.me:8519/4670115788/5623525065/919
-#EXTINF:-1,Beteve HD
-http://amazontv.me:8519/4670115788/5623525065/184290
-#EXTINF:-1,VERDI CLASSICS TV
-http://amazontv.me:8519/4670115788/5623525065/866
-#EXTINF:-1,#VAMOS FHD
-http://amazontv.me:8519/4670115788/5623525065/883
-#EXTINF:-1,#VAMOS
-http://amazontv.me:8519/4670115788/5623525065/884
-#EXTINF:-1,#VAMOS Ellas FHD
-http://amazontv.me:8519/4670115788/5623525065/184279
-#EXTINF:-1,#VAMOS Ellas
-http://amazontv.me:8519/4670115788/5623525065/184282
-#EXTINF:-1,M+ LALIGA TV FHD
-http://amazontv.me:8519/4670115788/5623525065/906
-#EXTINF:-1,M+ LALIGA TV
-http://amazontv.me:8519/4670115788/5623525065/907
-#EXTINF:-1,M+ LALIGA TV 1 FHD
-http://amazontv.me:8519/4670115788/5623525065/908
-#EXTINF:-1,M+ LALIGA TV 1
-http://amazontv.me:8519/4670115788/5623525065/909
-#EXTINF:-1,M+ LALIGA TV 2 FHD
-http://amazontv.me:8519/4670115788/5623525065/910
-#EXTINF:-1,M+ LALIGA TV 2
-http://amazontv.me:8519/4670115788/5623525065/911
-#EXTINF:-1,M+ LALIGA TV 3
-http://amazontv.me:8519/4670115788/5623525065/912
-#EXTINF:-1,M+ LALIGA TV 4
-http://amazontv.me:8519/4670115788/5623525065/913
-#EXTINF:-1,Movistar LALIGA 8
-http://amazontv.me:8519/4670115788/5623525065/917
-#EXTINF:-1,M+ LIGA CAMPEONES FHD
-http://amazontv.me:8519/4670115788/5623525065/58244
-#EXTINF:-1,M+ LIGA CAMPEONES
-http://amazontv.me:8519/4670115788/5623525065/895
-#EXTINF:-1,M+ LIGA CAMPEONES1 FHD
-http://amazontv.me:8519/4670115788/5623525065/896
-#EXTINF:-1,M.LIGA CAMPEONES1
-http://amazontv.me:8519/4670115788/5623525065/897
-#EXTINF:-1,M+ LIGA CAMPEONES2 FHD
-http://amazontv.me:8519/4670115788/5623525065/898
-#EXTINF:-1,M+ LIGA CAMPEONES2
-http://amazontv.me:8519/4670115788/5623525065/899
-#EXTINF:-1,M+ LIGA CAMPEONES3
-http://amazontv.me:8519/4670115788/5623525065/900
-#EXTINF:-1,M+ LIGA CAMPEONES4
-http://amazontv.me:8519/4670115788/5623525065/901
-#EXTINF:-1,M.LIGA CAMPEONES5
-http://amazontv.me:8519/4670115788/5623525065/902
-#EXTINF:-1,M.LIGA CAMPEONES6
-http://amazontv.me:8519/4670115788/5623525065/903
-#EXTINF:-1,M+ LIGA CAMPEONES7
-http://amazontv.me:8519/4670115788/5623525065/904
-#EXTINF:-1,M+ LIGA CAMPEONES8
-http://amazontv.me:8519/4670115788/5623525065/905
-#EXTINF:-1,M+ Deportes FHD
-http://amazontv.me:8519/4670115788/5623525065/888
-#EXTINF:-1,M+ Deportes
-http://amazontv.me:8519/4670115788/5623525065/889
-#EXTINF:-1,M+ Deportes 1 HD
-http://amazontv.me:8519/4670115788/5623525065/69665
-#EXTINF:-1,M+ Deportes 2 HD
-http://amazontv.me:8519/4670115788/5623525065/808
-#EXTINF:-1,M+ Deportes 3 HD
-http://amazontv.me:8519/4670115788/5623525065/809
-#EXTINF:-1,M+ Deportes 4 HD
-http://amazontv.me:8519/4670115788/5623525065/92584
-#EXTINF:-1,M+ GOLF FHD
-http://amazontv.me:8519/4670115788/5623525065/892
-#EXTINF:-1,M+ Golf
-http://amazontv.me:8519/4670115788/5623525065/893
-#EXTINF:-1,M+ Cracks FHD
-http://amazontv.me:8519/4670115788/5623525065/184283
-#EXTINF:-1,LALIGA TV HYPERMOTION TV FHD
-http://amazontv.me:8519/4670115788/5623525065/879
-#EXTINF:-1,LALIGA TV HYPERMOTION TV
-http://amazontv.me:8519/4670115788/5623525065/880
-#EXTINF:-1,LALIGA TV HYPERMOTION TV 2
-http://amazontv.me:8519/4670115788/5623525065/881
-#EXTINF:-1,LALIGA TV HYPERMOTION TV 3
-http://amazontv.me:8519/4670115788/5623525065/882
-#EXTINF:-1,La Ligatv bar FHD
-http://amazontv.me:8519/4670115788/5623525065/877
-#EXTINF:-1,La Ligatv bar
-http://amazontv.me:8519/4670115788/5623525065/878
-#EXTINF:-1,MultiDeporte
-http://amazontv.me:8519/4670115788/5623525065/867
-#EXTINF:-1,GOL TV HD
-http://amazontv.me:8519/4670115788/5623525065/875
-#EXTINF:-1,GOL TV
-http://amazontv.me:8519/4670115788/5623525065/876
-#EXTINF:-1,Real Madrid HD
-http://amazontv.me:8519/4670115788/5623525065/864
-#EXTINF:-1,ESPORT 3 HD
-http://amazontv.me:8519/4670115788/5623525065/184289
-#EXTINF:-1,EUROSPORT1 FHD
-http://amazontv.me:8519/4670115788/5623525065/868
-#EXTINF:-1,EUROSPORT1
-http://amazontv.me:8519/4670115788/5623525065/869
-#EXTINF:-1,EUROSPORT2
-http://amazontv.me:8519/4670115788/5623525065/870
-#EXTINF:-1 tvg-id="Teledeporte",TELEDEPORTE FHD
-http://amazontv.me:8519/4670115788/5623525065/871
-#EXTINF:-1,TELEDEPORTE
-http://amazontv.me:8519/4670115788/5623525065/872
-#EXTINF:-1,TOROS FHD
-http://amazontv.me:8519/4670115788/5623525065/873
-#EXTINF:-1,TOROS TV
-http://amazontv.me:8519/4670115788/5623525065/874
-#EXTINF:-1,DAZN SPORTS 1 FHD
-http://amazontv.me:8519/4670115788/5623525065/67250
-#EXTINF:-1,DAZN SPORTS 1 HD
-http://amazontv.me:8519/4670115788/5623525065/89969
-#EXTINF:-1,DAZN SPORTS 2 FHD
-http://amazontv.me:8519/4670115788/5623525065/862
-#EXTINF:-1,DAZN SPORTS 2 HD
-http://amazontv.me:8519/4670115788/5623525065/89970
-#EXTINF:-1,DAZN SPORTS 3 FHD
-http://amazontv.me:8519/4670115788/5623525065/69660
-#EXTINF:-1,DAZN SPORTS 3 HD
-http://amazontv.me:8519/4670115788/5623525065/89971
-#EXTINF:-1,DAZN SPORTS 4 FHD
-http://amazontv.me:8519/4670115788/5623525065/89972
-#EXTINF:-1,DAZN SPORTS 4 HD
-http://amazontv.me:8519/4670115788/5623525065/89973
-#EXTINF:-1,DAZN FORMULA 1 FHD
-http://amazontv.me:8519/4670115788/5623525065/890
-#EXTINF:-1,DAZN FORMULA 1
-http://amazontv.me:8519/4670115788/5623525065/891
-#EXTINF:-1,DAZN LALIGA FHD
-http://amazontv.me:8519/4670115788/5623525065/184285
-#EXTINF:-1,DAZN LALIGA
-http://amazontv.me:8519/4670115788/5623525065/184286
-#EXTINF:-1,DAZN LALIGA 2 FHD
-http://amazontv.me:8519/4670115788/5623525065/184287
-#EXTINF:-1,DAZN LALIGA 2
-http://amazontv.me:8519/4670115788/5623525065/184288
-#EXTINF:-1,M+ Documentales FHD
-http://amazontv.me:8519/4670115788/5623525065/914
-#EXTINF:-1,M+ Documentales
-http://amazontv.me:8519/4670115788/5623525065/915
-#EXTINF:-1,M+ Originales HD
-http://amazontv.me:8519/4670115788/5623525065/184278
-#EXTINF:-1,M+ Originales
-http://amazontv.me:8519/4670115788/5623525065/916
-#EXTINF:-1,NAT GEO FHD
-http://amazontv.me:8519/4670115788/5623525065/923
-#EXTINF:-1,NAT GEO
-http://amazontv.me:8519/4670115788/5623525065/924
-#EXTINF:-1 tvg-id="Nat Geo Wild",NAT GEO WILD
-http://amazontv.me:8519/4670115788/5623525065/926
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1911
+#EXTINF:-1,VIAJAR FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1912
 #EXTINF:-1,CAZA Y PESCA FHD
-http://amazontv.me:8519/4670115788/5623525065/921
-#EXTINF:-1,CAZA Y PESCA
-http://amazontv.me:8519/4670115788/5623525065/922
-#EXTINF:-1,Love Nature HD
-http://amazontv.me:8519/4670115788/5623525065/167228
-#EXTINF:-1 tvg-id="DMAX",DMAX
-http://amazontv.me:8519/4670115788/5623525065/920
-#EXTINF:-1,Canal Cocina
-http://amazontv.me:8519/4670115788/5623525065/936
-#EXTINF:-1 tvg-id="Historia",HISTORIA
-http://amazontv.me:8519/4670115788/5623525065/927
-#EXTINF:-1,IBERALIA TV
-http://amazontv.me:8519/4670115788/5623525065/928
-#EXTINF:-1,CRIMEN+INVES
-http://amazontv.me:8519/4670115788/5623525065/930
-#EXTINF:-1 tvg-id="Discovery",Discovery Channel
-http://amazontv.me:8519/4670115788/5623525065/931
-#EXTINF:-1,Od!sea
-http://amazontv.me:8519/4670115788/5623525065/934
-#EXTINF:-1,Blaze
-http://amazontv.me:8519/4670115788/5623525065/932
-#EXTINF:-1,DECASA
-http://amazontv.me:8519/4670115788/5623525065/935
-#EXTINF:-1,Dkiss
-http://amazontv.me:8519/4670115788/5623525065/70049
-#EXTINF:-1,Disney +
-http://amazontv.me:8519/4670115788/5623525065/839
-#EXTINF:-1 tvg-id="Disney Channel",DISNEY CHANNEL
-http://amazontv.me:8519/4670115788/5623525065/939
-#EXTINF:-1,DISNEY JR
-http://amazontv.me:8519/4670115788/5623525065/940
-#EXTINF:-1,Nick JR. HD
-http://amazontv.me:8519/4670115788/5623525065/941
-#EXTINF:-1 tvg-id="Nickelodeon",NICKELODEON
-http://amazontv.me:8519/4670115788/5623525065/943
-#EXTINF:-1,Dream Work FHD
-http://amazontv.me:8519/4670115788/5623525065/98215
-#EXTINF:-1,Panda
-http://amazontv.me:8519/4670115788/5623525065/944
-#EXTINF:-1,BOING
-http://amazontv.me:8519/4670115788/5623525065/945
-#EXTINF:-1 tvg-id="Baby TV",BABY TV
-http://amazontv.me:8519/4670115788/5623525065/70051
-#EXTINF:-1,M+ M?sica FHD
-http://amazontv.me:8519/4670115788/5623525065/98152
-#EXTINF:-1,MTV ESPA?A
-http://amazontv.me:8519/4670115788/5623525065/947
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1913
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1914
+#EXTINF:-1,COSMO FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1915
+#EXTINF:-1,CUATRO  FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1916
+#EXTINF:-1,FOX FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1919
+#EXTINF:-1,HISTORIA FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1920
+#EXTINF:-1,HOLLYWOOD FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1921
+#EXTINF:-1,LA 1 FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1922
+#EXTINF:-1,LA LIGA TV BAR FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1923
+#EXTINF:-1,M+ LALIGA FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1924
+#EXTINF:-1 tvg-id="M+ Acci?n",MOVISTAR ACCION FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1925
+#EXTINF:-1,MOVISTAR CINEDOC&ROLL FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1926
+#EXTINF:-1 tvg-id="M+ Comedia",MOVISTAR COMEDIA FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1927
+#EXTINF:-1,MOVISTAR DEPORTES FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1928
+#EXTINF:-1 tvg-id="M+ Drama",MOVISTAR DRAMA FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1929
+#EXTINF:-1 tvg-id="M+ Estrenos",MOVISTAR ESTRENOS FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1930
+#EXTINF:-1,MOVISTAR FORMULA 1 FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1931
+#EXTINF:-1,MOVISTAR GOLF FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1932
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1933
+#EXTINF:-1,MOVISTAR SERIES FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1934
+#EXTINF:-1,MOVISTAR SERIESMANIA FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1935
+#EXTINF:-1,MEGA FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1936
+#EXTINF:-1,NAT GEO WILD FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1937
+#EXTINF:-1,REAL MADRID TV FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1939
+#EXTINF:-1,TCM FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1940
+#EXTINF:-1,TELECINCO FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1941
+#EXTINF:-1 tvg-id="Teledeporte",TELEDEPORTE FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1942
+#EXTINF:-1,TNT FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1943
+#EXTINF:-1,#0 FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3569
+#EXTINF:-1,7RM FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3570
+#EXTINF:-1,A3 SERIES FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3572
+#EXTINF:-1,ANTENA 3 FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3574
+#EXTINF:-1,AXN WHITE FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3575
+#EXTINF:-1,BEIN LALIGA FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3578
+#EXTINF:-1,BEIN SPORTS LA LIGA FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3582
+#EXTINF:-1,BE MAD FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3584
+#EXTINF:-1,MOVISTAR DCINE FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3610
+#EXTINF:-1,MOVISTAR VAMOS FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3619
+#EXTINF:-1,MOVISTAR XTRA FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3620
+#EXTINF:-1,NATIONAL GEO FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3622
+#EXTINF:-1,LA 2 FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/5340
+#EXTINF:-1,FOX LIFE FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/5347
+#EXTINF:-1,LIGA123 FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/5353
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/5357
+#EXTINF:-1,SOMOS FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/5359
+#EXTINF:-1 tvg-id="LA 1",LA 1 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1509
+#EXTINF:-1,LA 2 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1510
+#EXTINF:-1,COSMO HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1511
+#EXTINF:-1,FDF HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1512
+#EXTINF:-1 tvg-id="Cuatro",CUATRO HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1513
+#EXTINF:-1 tvg-id="La Sexta",LA SEXTA HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1514
+#EXTINF:-1,FOX HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1515
+#EXTINF:-1,CAZA Y PESCA HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1517
+#EXTINF:-1 tvg-id="Calle 13",CALLE 13 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1519
+#EXTINF:-1,AXN HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1520
+#EXTINF:-1,AXN WHITE HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1521
+#EXTINF:-1,CANAL DRAMA HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1523
+#EXTINF:-1,MOVISTAR  ESTRENOS HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1526
+#EXTINF:-1,CRIME & INVESTIGATION HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1534
+#EXTINF:-1,NATIONAL GEOGRAPHICS HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1536
+#EXTINF:-1 tvg-id="Nat Geo Wild",NAT GEO WILD HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1537
+#EXTINF:-1 tvg-id="Historia",HISTORIA HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1538
+#EXTINF:-1,BLAZE HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1757
+#EXTINF:-1,ENERGY HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1835
+#EXTINF:-1,GOL TV HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1838
+#EXTINF:-1,HOLLYWOOD HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1841
+#EXTINF:-1 tvg-id="Mega",MEGA HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1856
+#EXTINF:-1,NOVA HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1861
+#EXTINF:-1 tvg-id="Real Madrid TV",REAL MADRID TV HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1862
+#EXTINF:-1 tvg-id="Telecinco",TELECINCO HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1865
+#EXTINF:-1,TNT HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1870
+#EXTINF:-1,ANDALUCIA TV HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3557
+#EXTINF:-1 tvg-id="Antena 3",ANTENA 3 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3558
+#EXTINF:-1,CANAL 24 HORAS HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3559
+#EXTINF:-1,CANAL ORBE21 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3560
+#EXTINF:-1 tvg-id="M+ Acci?n",MOVISTAR ACCION HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3561
+#EXTINF:-1,MOVISTAR DCINE HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3563
+#EXTINF:-1,MOVISTAR XTRA HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3564
+#EXTINF:-1,TCM HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3565
+#EXTINF:-1,TELEDEPORTE HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3566
+#EXTINF:-1,TV GALICIA HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3567
+#EXTINF:-1,TV3 CATALONIA HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3568
+#EXTINF:-1,A&E HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3571
+#EXTINF:-1 tvg-id="AMC",AMC HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3573
+#EXTINF:-1,BARCA TV HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3576
+#EXTINF:-1,BEIN LIGA 2 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3579
+#EXTINF:-1,BEIN LIGA 3 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3580
+#EXTINF:-1,BEIN SPORTS SPAIN HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3583
+#EXTINF:-1,CANAL DELCASA HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3587
+#EXTINF:-1,CANAL PANDA HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3589
+#EXTINF:-1,CANAL+ COCINA HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3590
+#EXTINF:-1,CANAL+ TOROS HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3591
+#EXTINF:-1,CLAN TVE HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3592
+#EXTINF:-1,DIVINITY HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3594
+#EXTINF:-1,DMAX HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3595
+#EXTINF:-1,ESPN HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3596
+#EXTINF:-1,LA LIGA TV BAR HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3597
+#EXTINF:-1,MOVISTAR ALQUILER 1 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3599
+#EXTINF:-1,MOVISTAR ALQUILER 2 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3600
+#EXTINF:-1,MOVISTAR ALQUILER 3 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3601
+#EXTINF:-1,MOVISTAR ALQUILER 4 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3602
+#EXTINF:-1,MOVISTAR ALQUILER 5 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3603
+#EXTINF:-1,MOVISTAR ALQUILER 6 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3604
+#EXTINF:-1,MOVISTAR ALQUILER 7 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3605
+#EXTINF:-1,MOVISTAR ALQUILER 8 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3606
+#EXTINF:-1,MOVISTAR ALQUILER 9 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3607
+#EXTINF:-1,MOVISTAR CINE N HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3608
+#EXTINF:-1,MOVISTAR CINEDOC&ROLL HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3609
+#EXTINF:-1,MOVISTAR DRAMA HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3611
+#EXTINF:-1,MOVISTAR F1 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3612
+#EXTINF:-1,MOVISTAR FUTBOL HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3613
+#EXTINF:-1,MOVISTAR GOLF HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3614
+#EXTINF:-1,MOVISTAR LIGA CAMPEONES HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3615
+#EXTINF:-1,MOVISTAR MOTO GP HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3616
+#EXTINF:-1 tvg-id="M+ Series",MOVISTAR SERIES HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3617
+#EXTINF:-1,MOVISTAR SERIESMANIA HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3618
+#EXTINF:-1,MTV ESPANA HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3621
+#EXTINF:-1,NEOX TV HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3623
+#EXTINF:-1,SUNDANCE HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3624
+#EXTINF:-1,TRECE HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3626
+#EXTINF:-1,VIAJAR HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3627
+#EXTINF:-1,13 TV HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/5341
+#EXTINF:-1,CANAL COSTA HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/5342
+#EXTINF:-1,DKISS HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/5344
+#EXTINF:-1,TEN HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/5345
+#EXTINF:-1,FOX NEWS HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/5350
+#EXTINF:-1 tvg-id="Odisea",ODISEA HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/5355
+#EXTINF:-1,MOVISTAR DISNEY HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/5356
+#EXTINF:-1,SOMOS HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/5358
+#EXTINF:-1,A3 SERIES HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/5368
+#EXTINF:-1,FOX NEWS CHANNEL HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/5371
+#EXTINF:-1,HIT TV HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/5373
+#EXTINF:-1,HOLA TV HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/5374
+#EXTINF:-1,NON STOP PEOPLE HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/5376
+#EXTINF:-1,TVE INTERNACIONAL HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/5377
+#EXTINF:-1,BE MAD HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/6670
+#EXTINF:-1,#0 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/6748
+#EXTINF:-1,XTRM HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/6945
+#EXTINF:-1,M. DEPORTE 1 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/6947
+#EXTINF:-1,M. DEPORTE 2 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/6948
+#EXTINF:-1,DARK HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/6952
+#EXTINF:-1,LIGA DE CAMPEONES 2 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/6953
+#EXTINF:-1,LIGA DE CAMPEONES 1 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/6960
+#EXTINF:-1,CRIMEN  INVESTIGACION HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/6961
+#EXTINF:-1,PANDA
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1528
+#EXTINF:-1,TAQUILLA 2
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1540
+#EXTINF:-1,TAQUILLA 1
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1539
+#EXTINF:-1,TAQUILLA 3
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1541
+#EXTINF:-1,TAQUILLA 4
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1542
+#EXTINF:-1,TAQUILLA 5
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1543
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1789
+#EXTINF:-1,FOX LIFE
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1837
+#EXTINF:-1,TAQUILLA 6
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/4801
+#EXTINF:-1,TAQUILLA 7
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/4802
+#EXTINF:-1,TAQUILLA 8
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/4803
+#EXTINF:-1 tvg-id="Arag?n TV",ARAGON TV
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/4805
+#EXTINF:-1,CINE+ SERIES XTRA
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/6944
 #EXTINF:-1,CLASSICA
-http://amazontv.me:8519/4670115788/5623525065/804
-#EXTINF:-1,MEZZO
-http://amazontv.me:8519/4670115788/5623525065/949
-#EXTINF:-1 tvg-id="Mezzo Live HD",MEZZO LIVE FHD
-http://amazontv.me:8519/4670115788/5623525065/948
-#EXTINF:-1,Rakuten TV HD
-http://amazontv.me:8519/4670115788/5623525065/813
-#EXTINF:-1,Rakuten TV 2 HD
-http://amazontv.me:8519/4670115788/5623525065/834
-#EXTINF:-1,Rakuten TV 3 HD
-http://amazontv.me:8519/4670115788/5623525065/835
-#EXTINF:-1,Rakuten TV 4 HD
-http://amazontv.me:8519/4670115788/5623525065/847
-#EXTINF:-1,Rakuten TV 5 HD
-http://amazontv.me:8519/4670115788/5623525065/846
-#EXTINF:-1,Rakuten TV 6 HD
-http://amazontv.me:8519/4670115788/5623525065/184284
-#EXTINF:-1,ALQUILER 1 HD
-http://amazontv.me:8519/4670115788/5623525065/78993
-#EXTINF:-1,ALQUILER 2 HD
-http://amazontv.me:8519/4670115788/5623525065/78994
-#EXTINF:-1,ALQUILER 3 HD
-http://amazontv.me:8519/4670115788/5623525065/78995
-#EXTINF:-1,ALQUILER 4 HD
-http://amazontv.me:8519/4670115788/5623525065/78996
-#EXTINF:-1,ALQUILER 5 HD
-http://amazontv.me:8519/4670115788/5623525065/78997
-#EXTINF:-1,ALQUILER 6 HD
-http://amazontv.me:8519/4670115788/5623525065/956
-#EXTINF:-1,CINE 1 HD
-http://amazontv.me:8519/4670115788/5623525065/133508
-#EXTINF:-1,CINE 2 HD
-http://amazontv.me:8519/4670115788/5623525065/133509
-#EXTINF:-1,CINE 3 HD
-http://amazontv.me:8519/4670115788/5623525065/133510
-#EXTINF:-1,CINE 4 HD
-http://amazontv.me:8519/4670115788/5623525065/133496
-#EXTINF:-1,CINE 5 HD
-http://amazontv.me:8519/4670115788/5623525065/133511
-#EXTINF:-1,CINE 6 HD
-http://amazontv.me:8519/4670115788/5623525065/133512
-#EXTINF:-1,CINE 7 HD
-http://amazontv.me:8519/4670115788/5623525065/133513
-#EXTINF:-1,CINE 8 HD
-http://amazontv.me:8519/4670115788/5623525065/133497
-#EXTINF:-1,CINE 9 HD
-http://amazontv.me:8519/4670115788/5623525065/133498
-#EXTINF:-1,CINE 10 HD
-http://amazontv.me:8519/4670115788/5623525065/133499
-#EXTINF:-1,CINE 11 HD
-http://amazontv.me:8519/4670115788/5623525065/133500
-#EXTINF:-1,CINE 12 HD
-http://amazontv.me:8519/4670115788/5623525065/133501
-#EXTINF:-1,CINE 13 HD
-http://amazontv.me:8519/4670115788/5623525065/133502
-#EXTINF:-1,CINE 14 HD
-http://amazontv.me:8519/4670115788/5623525065/133503
-#EXTINF:-1,CINE 15 HD
-http://amazontv.me:8519/4670115788/5623525065/133504
-#EXTINF:-1,CINE 16 HD
-http://amazontv.me:8519/4670115788/5623525065/133505
-#EXTINF:-1,CINE 17 HD
-http://amazontv.me:8519/4670115788/5623525065/133506
-#EXTINF:-1,CINE 18 HD
-http://amazontv.me:8519/4670115788/5623525065/133507
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/6950
+#EXTINF:-1,CANAL SUR A.
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/6951
+#EXTINF:-1,TAQUILLA 9
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/7529
+#EXTINF:-1,TAQUILLA10
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/7530
+#EXTINF:-1,Mundotoro HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/83555
