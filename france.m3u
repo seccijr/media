@@ -1,66 +1,4 @@
 #EXTM3U
-#EXTINF:-1,AU FOX SPORTS 505
-http://tv14s.xyz:8080/WzD7qQ/424962/57771
-#EXTINF:-1,BBC World Service English (UK Schedule)
-http://tv14s.xyz:8080/WzD7qQ/424962/14387
-#EXTINF:-1,BR Globo SP HD
-http://tv14s.xyz:8080/WzD7qQ/424962/21020
-#EXTINF:-1,CA-FR  TVA SPORTS 1
-http://tv14s.xyz:8080/WzD7qQ/424962/57498
-#EXTINF:-1,CA Sportsnet East (D)
-http://tv14s.xyz:8080/WzD7qQ/424962/41836
-#EXTINF:-1,CA Sportsnet One (E)
-http://tv14s.xyz:8080/WzD7qQ/424962/10247
-#EXTINF:-1,CA CNN
-http://tv14s.xyz:8080/WzD7qQ/424962/57398
-#EXTINF:-1,CA Discovery Channel
-http://tv14s.xyz:8080/WzD7qQ/424962/57252
-#EXTINF:-1,CA Discovery Science
-http://tv14s.xyz:8080/WzD7qQ/424962/57418
-#EXTINF:-1,US Discovery Family (F)
-http://tv14s.xyz:8080/WzD7qQ/424962/57347
-#EXTINF:-1,CA FOX NEWS
-http://tv14s.xyz:8080/WzD7qQ/424962/47281
-#EXTINF:-1,CA Ginx esports TV
-http://tv14s.xyz:8080/WzD7qQ/424962/57431
-#EXTINF:-1,CA Golf Channel HD
-http://tv14s.xyz:8080/WzD7qQ/424962/57362
-#EXTINF:-1,CA HBO 1
-http://tv14s.xyz:8080/WzD7qQ/424962/57437
-#EXTINF:-1,CA HBO 2 (R)
-http://tv14s.xyz:8080/WzD7qQ/424962/57438
-#EXTINF:-1,CA Investigation Discovery HD (E)
-http://tv14s.xyz:8080/WzD7qQ/424962/57442
-#EXTINF:-1,CA Sportsnet 360 HD
-http://tv14s.xyz:8080/WzD7qQ/424962/2219
-#EXTINF:-1,CA Sportsnet 360 (HD)
-http://tv14s.xyz:8080/WzD7qQ/424962/57299
-#EXTINF:-1,CA Sportsnet East HD (F)
-http://tv14s.xyz:8080/WzD7qQ/424962/57298
-#EXTINF:-1,CA Sportsnet One (FHD)
-http://tv14s.xyz:8080/WzD7qQ/424962/57297
-#EXTINF:-1,CA Sportsnet One (HD)
-http://tv14s.xyz:8080/WzD7qQ/424962/47379
-#EXTINF:-1,CA Sportsnet Ontario
-http://tv14s.xyz:8080/WzD7qQ/424962/57463
-#EXTINF:-1,CA Sportsnet Ontario HD
-http://tv14s.xyz:8080/WzD7qQ/424962/57296
-#EXTINF:-1,CA Sportsnet Ontario (FHD)
-http://tv14s.xyz:8080/WzD7qQ/424962/11649
-#EXTINF:-1,CA Sportsnet Pacific (FHD)
-http://tv14s.xyz:8080/WzD7qQ/424962/9860
-#EXTINF:-1,CA Sportsnet Pacific HD
-http://tv14s.xyz:8080/WzD7qQ/424962/47387
-#EXTINF:-1,CA Sportsnet West (FHD)
-http://tv14s.xyz:8080/WzD7qQ/424962/20975
-#EXTINF:-1,CA SPORTSNET WEST
-http://tv14s.xyz:8080/WzD7qQ/424962/57300
-#EXTINF:-1,CA Sportsnet World HD
-http://tv14s.xyz:8080/WzD7qQ/424962/75675
-#EXTINF:-1,CA (FR) TVA Sports 2
-http://tv14s.xyz:8080/WzD7qQ/424962/57337
-#EXTINF:-1,Carib Flow Sports (D)
-http://tv14s.xyz:8080/WzD7qQ/424962/79544
 #EXTINF:-1,Carib SPORT MAX2 (P)
 http://tv14s.xyz:8080/WzD7qQ/424962/78917
 #EXTINF:-1,Carib TVJ_Sports
@@ -803,6 +741,18 @@ http://tv14s.xyz:8080/WzD7qQ/424962/215343
 http://tv14s.xyz:8080/WzD7qQ/424962/215357
 #EXTINF:-1,M4 Megan Fox
 http://tv14s.xyz:8080/WzD7qQ/424962/215428
+#EXTINF:-1,PPV08   COLLAZO VS. ZAPATA (6.7 800 PM ET) DAZN
+http://tv14s.xyz:8080/WzD7qQ/424962/215828
+#EXTINF:-1,PPV13  ZAYAS VS. TEIXEIRA (6.8 730 PM ET) DAZN
+http://tv14s.xyz:8080/WzD7qQ/424962/215833
+#EXTINF:-1,PPV14  PFL EUROPE 2 (6.8 1200 PM ET) DAZN
+http://tv14s.xyz:8080/WzD7qQ/424962/215834
+#EXTINF:-1,PPV15  OKTAGON 58 (6.8 1200 PM ET) DAZN
+http://tv14s.xyz:8080/WzD7qQ/424962/215835
+#EXTINF:-1,PPV16  LIV HOUSTON DAY 2 (6.8 100 PM ET) DAZN
+http://tv14s.xyz:8080/WzD7qQ/424962/215836
+#EXTINF:-1,PPV17  OBERLTON VS. CRUZ (6.8 800 PM ET) DAZN
+http://tv14s.xyz:8080/WzD7qQ/424962/215837
 #EXTINF:-1,X4  BBC Pie
 http://tv14s.xyz:8080/WzD7qQ/424962/215473
 #EXTINF:-1,X4  John and Sky
@@ -2203,6 +2153,18 @@ http://tv14s.xyz:8080/A1Jay5/362586/215343
 http://tv14s.xyz:8080/A1Jay5/362586/215357
 #EXTINF:-1,M4 Megan Fox
 http://tv14s.xyz:8080/A1Jay5/362586/215428
+#EXTINF:-1,PPV08   COLLAZO VS. ZAPATA (6.7 800 PM ET) DAZN
+http://tv14s.xyz:8080/A1Jay5/362586/215828
+#EXTINF:-1,PPV13  ZAYAS VS. TEIXEIRA (6.8 730 PM ET) DAZN
+http://tv14s.xyz:8080/A1Jay5/362586/215833
+#EXTINF:-1,PPV14  PFL EUROPE 2 (6.8 1200 PM ET) DAZN
+http://tv14s.xyz:8080/A1Jay5/362586/215834
+#EXTINF:-1,PPV15  OKTAGON 58 (6.8 1200 PM ET) DAZN
+http://tv14s.xyz:8080/A1Jay5/362586/215835
+#EXTINF:-1,PPV16  LIV HOUSTON DAY 2 (6.8 100 PM ET) DAZN
+http://tv14s.xyz:8080/A1Jay5/362586/215836
+#EXTINF:-1,PPV17  OBERLTON VS. CRUZ (6.8 800 PM ET) DAZN
+http://tv14s.xyz:8080/A1Jay5/362586/215837
 #EXTINF:-1,X4  BBC Pie
 http://tv14s.xyz:8080/A1Jay5/362586/215473
 #EXTINF:-1,X4  John and Sky
@@ -3603,6 +3565,18 @@ http://tv14s.xyz:8080/753468/894568/215343
 http://tv14s.xyz:8080/753468/894568/215357
 #EXTINF:-1,M4 Megan Fox
 http://tv14s.xyz:8080/753468/894568/215428
+#EXTINF:-1,PPV08   COLLAZO VS. ZAPATA (6.7 800 PM ET) DAZN
+http://tv14s.xyz:8080/753468/894568/215828
+#EXTINF:-1,PPV13  ZAYAS VS. TEIXEIRA (6.8 730 PM ET) DAZN
+http://tv14s.xyz:8080/753468/894568/215833
+#EXTINF:-1,PPV14  PFL EUROPE 2 (6.8 1200 PM ET) DAZN
+http://tv14s.xyz:8080/753468/894568/215834
+#EXTINF:-1,PPV15  OKTAGON 58 (6.8 1200 PM ET) DAZN
+http://tv14s.xyz:8080/753468/894568/215835
+#EXTINF:-1,PPV16  LIV HOUSTON DAY 2 (6.8 100 PM ET) DAZN
+http://tv14s.xyz:8080/753468/894568/215836
+#EXTINF:-1,PPV17  OBERLTON VS. CRUZ (6.8 800 PM ET) DAZN
+http://tv14s.xyz:8080/753468/894568/215837
 #EXTINF:-1,X4  BBC Pie
 http://tv14s.xyz:8080/753468/894568/215473
 #EXTINF:-1,X4  John and Sky
@@ -4199,26 +4173,20 @@ http://tv14s.xyz:8080/series/753468/894568/211328.mkv
 http://tv14s.xyz:8080/series/753468/894568/211329.mkv
 #EXTINF:-1,Brawn The Impossible Formula 1 Story S01 E04
 http://tv14s.xyz:8080/series/753468/894568/211330.mkv
-#EXTINF:-1,Bally Sports Ohio (i)
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158805
-#EXTINF:-1,Bally Sports San Diego (i)
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158804
+#EXTINF:-1,Bally Sports Midwest (i)
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158807
+#EXTINF:-1,Bally Sports North (i)
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158806
+#EXTINF:-1,Bally Sports Oklahoma (i)
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158815
 #EXTINF:-1,Bally Sports SoCal (i)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158813
-#EXTINF:-1,Bally Sports South (i)
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158801
 #EXTINF:-1,Bally Sports Southeast (i)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158803
-#EXTINF:-1,Bally Sports Southwest (i)
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158802
 #EXTINF:-1,Bally Sports Sun (i)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158800
-#EXTINF:-1,Bally Sports West (i)
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158799
 #EXTINF:-1,BeIN Sports US (i)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158818
-#EXTINF:-1,Claro Sports FHD MX (i)
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158821
 #EXTINF:-1,FOXS 1 MX HD (i)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158833
 #EXTINF:-1,FOXS 2 HD MX (i)
@@ -4247,6 +4215,8 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159077
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159331
 #EXTINF:-1,E-Sports (R)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/167066
+#EXTINF:-1,C.laro Sports (i)
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/167183
 #EXTINF:-1,Neighbors (2014)
 http://budtvlight.com:25461/movie/jaime/3DbdkaKhwZEd/133109.mp4
 #EXTINF:-1,Battle for Skyark (2016)
@@ -4559,6 +4529,8 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/165510
 http://budtvlight.com:25461/movie/jaime/3DbdkaKhwZEd/165535.mp4
 #EXTINF:-1,Bally Sports Wisconsin (i)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158798
+#EXTINF:-1,WITC-FOX
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/167111
 #EXTINF:-1,Antena 3 (ES)(R)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/129500
 #EXTINF:-1,Antena 3 Internacional (ES)(R)
@@ -4667,10 +4639,16 @@ http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/160095
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/166562
 #EXTINF:-1,TE Y C Sports (AR)(i) op3
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/166563
-#EXTINF:-1,UFC  Makhachev vs Poirier 4.30pm FOX(i) | 01
+#EXTINF:-1,UFC  Cannonier vs Imavov 3.30pm FOX(i) 08/JUN | 01
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/122041
-#EXTINF:-1,UFC  Makhachev vs Poirier 4.30pm FOX(r) | 02
+#EXTINF:-1,UFC  Cannonier vs Imavov 3.30pm FOX(r) 08/JUN | 02
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/122042
+#EXTINF:-1,UFC  Cannonier vs Imavov 3.30pm FOX(r)op2 08/JUN | 02
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/123396
+#EXTINF:-1,1830 Mexico vs Brasil FOXD i 08/JUN
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/167160
+#EXTINF:-1,1830 Mexico vs Brasil FOXD r 08/JUN
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/167161
 #EXTINF:-1,Foxs 1  Arg (AR)(R)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162365
 #EXTINF:-1,Foxs 1 SD Arg (AR)(R)
