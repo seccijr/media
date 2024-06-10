@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1,CA Sportsnet Pacific (FHD)
+http://tv14s.xyz:8080/WzD7qQ/424962/9860
+#EXTINF:-1,CA Sportsnet Pacific HD
+http://tv14s.xyz:8080/WzD7qQ/424962/47387
+#EXTINF:-1,CA Sportsnet West (FHD)
+http://tv14s.xyz:8080/WzD7qQ/424962/20975
+#EXTINF:-1,CA SPORTSNET WEST
+http://tv14s.xyz:8080/WzD7qQ/424962/57300
+#EXTINF:-1,CA Sportsnet World HD
+http://tv14s.xyz:8080/WzD7qQ/424962/75675
+#EXTINF:-1,CA (FR) TVA Sports 2
+http://tv14s.xyz:8080/WzD7qQ/424962/57337
+#EXTINF:-1,Carib Flow Sports (D)
+http://tv14s.xyz:8080/WzD7qQ/424962/79544
 #EXTINF:-1,Carib SPORT MAX2 (P)
 http://tv14s.xyz:8080/WzD7qQ/424962/78917
 #EXTINF:-1,Carib TVJ_Sports
@@ -4173,16 +4187,6 @@ http://tv14s.xyz:8080/series/753468/894568/211328.mkv
 http://tv14s.xyz:8080/series/753468/894568/211329.mkv
 #EXTINF:-1,Brawn The Impossible Formula 1 Story S01 E04
 http://tv14s.xyz:8080/series/753468/894568/211330.mkv
-#EXTINF:-1,Bally Sports Midwest (i)
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158807
-#EXTINF:-1,Bally Sports North (i)
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158806
-#EXTINF:-1,Bally Sports Oklahoma (i)
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158815
-#EXTINF:-1,Bally Sports SoCal (i)
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158813
-#EXTINF:-1,Bally Sports Southeast (i)
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158803
 #EXTINF:-1,Bally Sports Sun (i)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/158800
 #EXTINF:-1,BeIN Sports US (i)
