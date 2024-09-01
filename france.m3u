@@ -1,241 +1,63 @@
 #EXTM3U
-#EXTINF:-1,BBC WORLD NEWS
-http://185.234.111.229:8000/play/a02c
-#EXTINF:-1,CNN TÜRK
-http://185.234.111.229:8000/play/a01r
-#EXTINF:-1,DISCOVERY CHANNEL
-http://185.234.111.229:8000/play/a027
-#EXTINF:-1,SPORTS TV
-http://185.234.111.229:8000/play/a06z
-#EXTINF:-1,BEIN SPORTS 1
-http://154.58.202.35:8003/play/a0dt/index.m3u8
-#EXTINF:-1,BEIN SPORTS 2
-http://154.58.202.35:8003/play/a0du/index.m3u8
-#EXTINF:-1,BEIN SPORTS 3
-http://154.58.202.35:8003/play/a0dv/index.m3u8
-#EXTINF:-1,CANAL+
-http://154.58.202.35:8003/play/a0dz/index.m3u8
-#EXTINF:-1,CANAL+BOX OFFICE
-http://154.58.202.35:8003/play/a0eu/index.m3u8
-#EXTINF:-1,CANAL+CINEMA.S
-http://154.58.202.35:8003/play/a0e0/index.m3u8
-#EXTINF:-1,CANAL+DOCS
-http://154.58.202.35:8003/play/a0eg/index.m3u8
-#EXTINF:-1,CANAL+FOOT
-http://154.58.202.35:8003/play/a0dx/index.m3u8
-#EXTINF:-1,CANAL+GRAND ECRAN
-http://154.58.202.35:8003/play/a0fa/index.m3u8
-#EXTINF:-1,CANAL+SERIES
-http://154.58.202.35:8003/play/a0e3/index.m3u8
-#EXTINF:-1,CANAL+SPORT
-http://154.58.202.35:8003/play/a0e1/index.m3u8
-#EXTINF:-1,CANAL+kids
-http://154.58.202.35:8003/play/a0e2/index.m3u8
-#EXTINF:-1,FRANCE 2
-http://154.58.202.35:8003/play/a0d7/index.m3u8
-#EXTINF:-1,FRANCE 3
-http://154.58.202.35:8003/play/a0d9/index.m3u8
-#EXTINF:-1,FRANCE 4
-http://154.58.202.35:8003/play/a0dk/index.m3u8
-#EXTINF:-1,FRANCEINFO
-http://154.58.202.35:8003/play/a0dq/index.m3u8
-#EXTINF:-1,INFOSPORT+
-http://154.58.202.35:8003/play/a0ep/index.m3u8
-#EXTINF:-1,PLANETE+
-http://154.58.202.35:8003/play/a0ec/index.m3u8
-#EXTINF:-1,PLANETE+AVENTURE
-http://154.58.202.35:8003/play/a0e8/index.m3u8
-#EXTINF:-1,PLANETE+CRIME
-http://154.58.202.35:8003/play/a0el/index.m3u8
-#EXTINF:-1,Dubai Sports 2
-http://154.54.220.67:34780/play/a00s
-#EXTINF:-1,Dubai Sports 3
-http://154.54.220.67:34780/play/a00p
-#EXTINF:-1,Euronews English HD
-http://154.54.220.67:34780/play/a066
-#EXTINF:-1,France 24 HD (en Francais)
-http://154.54.220.67:34780/play/a06a
-#EXTINF:-1,France 24 HD (in English)
-http://154.54.220.67:34780/play/a06b
-#EXTINF:-1,KSA SPORTS 1 HD
-http://154.54.220.67:34780/play/a032
-#EXTINF:-1,KSA SPORTS 2 HD
-http://154.54.220.67:34780/play/a037
-#EXTINF:-1,KSA Sports +1 HD
-http://154.54.220.67:34780/play/a036
-#EXTINF:-1,KSA Sports +2 HD
-http://154.54.220.67:34780/play/a034
-#EXTINF:-1,RSI LA 1 HD
-http://154.54.220.67:34780/play/a05c
-#EXTINF:-1,RSI LA 2 HD
-http://154.54.220.67:34780/play/a059
-#EXTINF:-1,beIN SPORTS 4
-http://154.54.220.67:34780/play/a06q
-#EXTINF:-1,beIN SPORTS 4 AFC
-http://154.54.220.67:34780/play/a06w
-#EXTINF:-1,beIN SPORTS 6
-http://154.54.220.67:34780/play/a06p
-#EXTINF:-1,beIN SPORTS 6 AFC
-http://154.54.220.67:34780/play/a06v
-#EXTINF:-1,beIN SPORTS 8
-http://154.54.220.67:34780/play/a06r
-#EXTINF:-1,beIN SPORTS HD
-http://154.54.220.67:34780/play/a01z
-#EXTINF:-1,beIN SPORTS MAX 1
-http://154.54.220.67:34780/play/a06t
-#EXTINF:-1,beIN SPORTS NEWS
-http://154.54.220.67:34780/play/a06u
-#EXTINF:-1,beIN SPORTS NEWS HD
-http://154.54.220.67:34780/play/a020
-#EXTINF:-1,beIN SPORTS XTRA 3
-http://154.54.220.67:34780/play/a06s
-#EXTINF:-1,Dubai Sports 2
-http://154.197.91.169:7002/play/a0i0
-#EXTINF:-1,Dubai Sports 3
-http://154.197.91.169:7002/play/a0i1
-#EXTINF:-1,Iraqia Sport HD
-http://154.197.91.169:7002/play/a0gu
-#EXTINF:-1,AD Sport 1 HD
-http://45.65.112.206:8000/play/a07a
-#EXTINF:-1,AD Sport 2 HD
-http://45.65.112.206:8000/play/a07b
-#EXTINF:-1,ALRabiaa Sport
-http://45.65.112.206:8000/play/a04g
-#EXTINF:-1,Al-Nahar Sport
-http://45.65.112.206:8000/play/a0cy
-#EXTINF:-1,DUBAI SPORTS 1 HD
-http://45.65.112.206:8000/play/a0bl
-#EXTINF:-1,DUBAI SPORTS 2 HD
-http://45.65.112.206:8000/play/a0bm
-#EXTINF:-1,Jordan Sport
-http://45.65.112.206:8000/play/a0hm
-#EXTINF:-1,ONTIME SPORTS
-http://45.65.112.206:8000/play/a0fj
-#EXTINF:-1,ONTIME SPORTS HD
-http://45.65.112.206:8000/play/a0fg
-#EXTINF:-1,ONTIME SPORTS2
-http://45.65.112.206:8000/play/a0fh
-#EXTINF:-1,ONTIME SPORTS2 HD
-http://45.65.112.206:8000/play/a0fe
-#EXTINF:-1,YAS Sports HD
-http://45.65.112.206:8000/play/a07c
-#EXTINF:-1,Dubai Sports 2
-http://154.54.220.67:34780/play/a00s
-#EXTINF:-1,Dubai Sports 3
-http://154.54.220.67:34780/play/a00p
-#EXTINF:-1,Euronews English HD
-http://154.54.220.67:34780/play/a066
-#EXTINF:-1,France 24 HD (en Francais)
-http://154.54.220.67:34780/play/a06a
-#EXTINF:-1,France 24 HD (in English)
-http://154.54.220.67:34780/play/a06b
-#EXTINF:-1,KSA SPORTS 1 HD
-http://154.54.220.67:34780/play/a032
-#EXTINF:-1,KSA SPORTS 2 HD
-http://154.54.220.67:34780/play/a037
-#EXTINF:-1,KSA Sports +1 HD
-http://154.54.220.67:34780/play/a036
-#EXTINF:-1,KSA Sports +2 HD
-http://154.54.220.67:34780/play/a034
-#EXTINF:-1,RSI LA 1 HD
-http://154.54.220.67:34780/play/a05c
-#EXTINF:-1,RSI LA 2 HD
-http://154.54.220.67:34780/play/a059
-#EXTINF:-1,beIN SPORTS 4
-http://154.54.220.67:34780/play/a06q
-#EXTINF:-1,beIN SPORTS 4 AFC
-http://154.54.220.67:34780/play/a06w
-#EXTINF:-1,beIN SPORTS 6
-http://154.54.220.67:34780/play/a06p
-#EXTINF:-1,beIN SPORTS 6 AFC
-http://154.54.220.67:34780/play/a06v
-#EXTINF:-1,beIN SPORTS 8
-http://154.54.220.67:34780/play/a06r
-#EXTINF:-1,beIN SPORTS HD
-http://154.54.220.67:34780/play/a01z
-#EXTINF:-1,beIN SPORTS MAX 1
-http://154.54.220.67:34780/play/a06t
-#EXTINF:-1,beIN SPORTS NEWS
-http://154.54.220.67:34780/play/a06u
-#EXTINF:-1,beIN SPORTS NEWS HD
-http://154.54.220.67:34780/play/a020
-#EXTINF:-1,beIN SPORTS XTRA 3
-http://154.54.220.67:34780/play/a06s
-#EXTINF:-1,La 1 HD
-http://77.228.160.100:61800/play/a007
-#EXTINF:-1,La 2 HD
-http://77.228.160.100:61800/play/a008
-#EXTINF:-1,Cuatro HD
-http://77.228.160.100:61800/play/a00l
-#EXTINF:-1,NovaSport
-http://45.156.140.154:4000/play/a015/index.m3u8
-#EXTINF:-1,Dubai Sports 2
-http://154.54.220.67:34780/play/a00s
-#EXTINF:-1,Dubai Sports 3
-http://154.54.220.67:34780/play/a00p
-#EXTINF:-1,Euronews English HD
-http://154.54.220.67:34780/play/a066
-#EXTINF:-1,France 24 HD (en Francais)
-http://154.54.220.67:34780/play/a06a
-#EXTINF:-1,France 24 HD (in English)
-http://154.54.220.67:34780/play/a06b
-#EXTINF:-1,KSA SPORTS 1 HD
-http://154.54.220.67:34780/play/a032
-#EXTINF:-1,KSA SPORTS 2 HD
-http://154.54.220.67:34780/play/a037
-#EXTINF:-1,KSA Sports +1 HD
-http://154.54.220.67:34780/play/a036
-#EXTINF:-1,KSA Sports +2 HD
-http://154.54.220.67:34780/play/a034
-#EXTINF:-1,RSI LA 1 HD
-http://154.54.220.67:34780/play/a05c
-#EXTINF:-1,RSI LA 2 HD
-http://154.54.220.67:34780/play/a059
-#EXTINF:-1,beIN SPORTS 4
-http://154.54.220.67:34780/play/a06q
-#EXTINF:-1,beIN SPORTS 4 AFC
-http://154.54.220.67:34780/play/a06w
-#EXTINF:-1,beIN SPORTS 6
-http://154.54.220.67:34780/play/a06p
-#EXTINF:-1,beIN SPORTS 6 AFC
-http://154.54.220.67:34780/play/a06v
-#EXTINF:-1,beIN SPORTS 8
-http://154.54.220.67:34780/play/a06r
-#EXTINF:-1,beIN SPORTS HD
-http://154.54.220.67:34780/play/a01z
-#EXTINF:-1,beIN SPORTS MAX 1
-http://154.54.220.67:34780/play/a06t
-#EXTINF:-1,beIN SPORTS NEWS
-http://154.54.220.67:34780/play/a06u
-#EXTINF:-1,beIN SPORTS NEWS HD
-http://154.54.220.67:34780/play/a020
-#EXTINF:-1,beIN SPORTS XTRA 3
-http://154.54.220.67:34780/play/a06s
-#EXTINF:-1,BBC WORLD NEWS
-http://185.234.111.229:8000/play/a02c
-#EXTINF:-1,CNN TÜRK
-http://185.234.111.229:8000/play/a01r
-#EXTINF:-1,DISCOVERY CHANNEL
-http://185.234.111.229:8000/play/a027
-#EXTINF:-1,SPORTS TV
-http://185.234.111.229:8000/play/a06z
-#EXTINF:-1,Ziggo Sport Voetbal
-http://78.130.250.2:8023/play/a00f/index.m3u8
-#EXTINF:-1,CANAL+ Sport (CZ)
-http://78.130.250.2:8023/play/a02v/index.m3u8
-#EXTINF:-1,Ziggo Sport Select HD
-http://78.130.250.2:8023/play/a00n/index.m3u8
-#EXTINF:-1,Nova Sport 1 HD au
-http://78.130.250.2:8023/play/a02k/index.m3u8
-#EXTINF:-1,Arena Sport 1 HD
-http://78.130.250.2:8023/play/a02o/index.m3u8
+#EXTINF:-1,tvg-id="Discovery H&H HD",Discovery H&H HD
+http://45.172.223.42:8000/play/a033/index.m3u8
+#EXTINF:-1,tvg-id="Discovery Kids",Discovery Kids
+http://45.172.223.42:8000/play/a00o/index.m3u8
+#EXTINF:-1,tvg-id="Fox Sports 2",Fox Sports 2
+http://45.172.223.42:8000/play/a01g/index.m3u8
+#EXTINF:-1,tvg-id="HBO 2",HBO 2
+http://45.172.223.42:8000/play/a00t/index.m3u8
+#EXTINF:-1,tvg-id="HBO 2 HD",HBO 2 HD
+http://45.172.223.42:8000/play/a02y/index.m3u8
+#EXTINF:-1,tvg-id="HBO HD",HBO HD
+http://45.172.223.42:8000/play/a02t/index.m3u8
+#EXTINF:-1,tvg-id="HBO Plus",HBO Plus
+http://45.172.223.42:8000/play/a00u/index.m3u8
+#EXTINF:-1,tvg-id="HBO XTREME SD",HBO XTREME SD
+http://45.172.223.42:8000/play/a00v/index.m3u8
+#EXTINF:-1,Discovery H&H HD
+http://181.78.208.237:8000/play/a0aj/index.m3u8
+#EXTINF:-1,Discovery HD
+http://181.78.208.237:8000/play/a0c5/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://181.78.208.237:8000/play/a07v/index.m3u8
+#EXTINF:-1,HBO 2 HD
+http://181.78.208.237:8000/play/a0bb/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://181.78.208.237:8000/play/a0c8/index.m3u8
+#EXTINF:-1,HBO POP HD
+http://181.78.208.237:8000/play/a09s/index.m3u8
+#EXTINF:-1,HBO XTREME HD
+http://181.78.208.237:8000/play/a0c9/index.m3u8
+#EXTINF:-1,STAR TVE HD
+http://181.78.208.237:8000/play/a0ba/index.m3u8
+#EXTINF:-1,Win Sports HD
+http://181.78.208.237:8000/play/a09t/index.m3u8
+#EXTINF:-1,CNN Internacional
+http://204.157.251.250:8000/play/a068/index.m3u8
+#EXTINF:-1,CNNE
+http://204.157.251.250:8000/play/a0bw/index.m3u8
+#EXTINF:-1,Claro Sports 2 HD
+http://204.157.251.250:8000/play/a0ch/index.m3u8
+#EXTINF:-1,Discovery Home & Health
+http://204.157.251.250:8000/play/a08d/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://204.157.251.250:8000/play/a088/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://204.157.251.250:8000/play/a08c/index.m3u8
+#EXTINF:-1,Fox Sport 3
+http://204.157.251.250:8000/play/a00p/index.m3u8
 #EXTINF:-1,HBO HD
-http://78.130.250.2:8023/play/a02s/index.m3u8
-#EXTINF:-1,AutoMotorSport HD
-http://78.130.250.2:8023/play/a018/index.m3u8
-#EXTINF:-1,CNN TÜRK
-http://185.234.111.229:8000/play/a01r
-#EXTINF:-1,DISCOVERY CHANNEL
-http://185.234.111.229:8000/play/a027
-#EXTINF:-1,SPORTS TV
-http://185.234.111.229:8000/play/a06z
+http://204.157.251.250:8000/play/a06t/index.m3u8
+#EXTINF:-1,HBO Plus HD
+http://204.157.251.250:8000/play/a06v/index.m3u8
+#EXTINF:-1,TVE
+http://204.157.251.250:8000/play/a08s/index.m3u8
+#EXTINF:-1,Discovery ID HD
+http://204.157.251.250:8001/play/a03v/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://204.157.251.250:8001/play/a03s/index.m3u8
+#EXTINF:-1,Star TVE HD
+http://204.157.251.250:8001/play/a00f/index.m3u8
+#EXTINF:-1,Tigo Sports HD
+http://204.157.251.250:8001/play/a02o/index.m3u8
