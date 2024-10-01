@@ -1,42 +1,42 @@
 #EXTM3U
-#EXTINF:-1,Euronews English HD
-http://154.54.220.67:34780/play/a066/index.m3u8
-#EXTINF:-1,KSA SPORTS 2 HD
-http://154.54.220.67:34780/play/a037/index.m3u8
-#EXTINF:-1,KSA Sports +1 HD
-http://154.54.220.67:34780/play/a036/index.m3u8
-#EXTINF:-1,Sky News Arabia
-http://154.54.220.67:34780/play/a07a/index.m3u8
+#EXTINF:-1,DUBAI SPORTS 2 HD
+http://154.54.220.67:34780/play/a07x/index.m3u8
+#EXTINF:-1,France 24 HD (in English)
+http://154.54.220.67:34780/play/a06b/index.m3u8
+#EXTINF:-1,KSA SPORTS 1 HD
+http://154.54.220.67:34780/play/a032/index.m3u8
+#EXTINF:-1,BBC News Europe
+http://154.54.220.67:34780/play/a0ag/index.m3u8
 #EXTINF:-1,DUBAI SPORTS 1 HD
 http://154.54.220.67:34780/play/a07w/index.m3u8
 #EXTINF:-1,France 24 HD (en Francais)
 http://154.54.220.67:34780/play/a06a/index.m3u8
-#EXTINF:-1,France 24 HD (in English)
-http://154.54.220.67:34780/play/a06b/index.m3u8
+#EXTINF:-1,KSA SPORTS 1 HD
+http://154.54.220.67:34780/play/a032/index.m3u8
 #EXTINF:-1,KSA Sports +1 HD
 http://154.54.220.67:34780/play/a036/index.m3u8
-#EXTINF:-1,KSA Sports +2 HD
-http://154.54.220.67:34780/play/a034/index.m3u8
 #EXTINF:-1,Cuatro HD
 http://77.228.160.100:61800/play/a00l
 #EXTINF:-1,CNN Internacional
 http://204.157.251.250:8000/play/a068/index.m3u8
-#EXTINF:-1,Claro Sports 1 SD
-http://204.157.251.250:8000/play/a08f/index.m3u8
+#EXTINF:-1,CNNE
+http://204.157.251.250:8000/play/a0bw/index.m3u8
 #EXTINF:-1,Claro Sports 2 HD
 http://204.157.251.250:8000/play/a0ch/index.m3u8
-#EXTINF:-1,Claro Sports 3 HD
-http://204.157.251.250:8000/play/a0ci/index.m3u8
+#EXTINF:-1,Discovery Home & Health
+http://204.157.251.250:8000/play/a08d/index.m3u8
 #EXTINF:-1,Discovery Kids
 http://204.157.251.250:8000/play/a088/index.m3u8
-#EXTINF:-1,Discovery Science
-http://204.157.251.250:8000/play/a063/index.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://204.157.251.250:8000/play/a06e/index.m3u8
+#EXTINF:-1,Fox Sport 3
+http://204.157.251.250:8000/play/a00p/index.m3u8
 #EXTINF:-1,HBO Family HD
 http://204.157.251.250:8000/play/a06w/index.m3u8
-#EXTINF:-1,HBO HD
-http://204.157.251.250:8000/play/a06t/index.m3u8
 #EXTINF:-1,HBO XTREME
 http://204.157.251.250:8000/play/a06x/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://204.157.251.250:8000/play/a06u/index.m3u8
 #EXTINF:-1,TVE
 http://204.157.251.250:8000/play/a08s/index.m3u8
 #EXTINF:-1,Discovery ID HD
