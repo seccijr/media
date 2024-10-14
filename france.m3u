@@ -15,25 +15,25 @@ http://45.163.205.110:8000/play/a0gb/index.m3u8
 http://204.199.89.187:14002/play/a00f/index.m3u8
 #EXTINF:-1,DISCOVERY ID
 http://160.20.165.246:8000/play/a012/index.m3u8
-#EXTINF:-1,DISCOVERY KIDS
-http://160.20.165.246:8000/play/a016/index.m3u8
 #EXTINF:-1,Investigation Discovery
 http://217.27.239.226:8888/play/18/index.m3u8
 #EXTINF:-1,BBC Two
 http://217.27.239.226:8888/play/39/index.m3u8
 #EXTINF:-1,BBC One
 http://217.27.239.226:8888/play/41/index.m3u8
-#EXTINF:-1,CNN
-http://217.27.239.226:8888/play/42/index.m3u8
+#EXTINF:-1,BBC First HD
+http://217.27.239.226:8888/play/43/index.m3u8
 #EXTINF:-1,Sky Radio
 http://217.27.239.226:8888/play/87/index.m3u8
+#EXTINF:-1,FOX
+http://217.27.239.226:8888/play/107/index.m3u8
 #EXTINF:-1,DUBAI SPORTS 2 HD
 http://154.54.220.67:34780/play/a07x/index.m3u8
-#EXTINF:-1,France 24 HD (in English)
-http://154.54.220.67:34780/play/a06b/index.m3u8
+#EXTINF:-1,Euronews English HD
+http://154.54.220.67:34780/play/a066/index.m3u8
 #EXTINF:-1,KSA SPORTS 1 HD
 http://154.54.220.67:34780/play/a032/index.m3u8
-#EXTINF:-1,KSA SPORTS 2 HD
-http://154.54.220.67:34780/play/a037/index.m3u8
+#EXTINF:-1,KSA Sports +2 HD
+http://154.54.220.67:34780/play/a034/index.m3u8
 #EXTINF:-1,Sky News Arabia
 http://154.54.220.67:34780/play/a07a/index.m3u8
