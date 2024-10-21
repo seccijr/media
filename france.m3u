@@ -17,12 +17,12 @@ http://204.199.89.187:14002/play/a00f/index.m3u8
 http://160.20.165.246:8000/play/a012/index.m3u8
 #EXTINF:-1,Investigation Discovery
 http://217.27.239.226:8888/play/18/index.m3u8
-#EXTINF:-1,BBC Two
-http://217.27.239.226:8888/play/39/index.m3u8
+#EXTINF:-1,Eurosport
+http://217.27.239.226:8888/play/35/index.m3u8
 #EXTINF:-1,BBC One
 http://217.27.239.226:8888/play/41/index.m3u8
-#EXTINF:-1,CNN
-http://217.27.239.226:8888/play/42/index.m3u8
+#EXTINF:-1,BBC First HD
+http://217.27.239.226:8888/play/43/index.m3u8
 #EXTINF:-1,Sky Radio
 http://217.27.239.226:8888/play/87/index.m3u8
 #EXTINF:-1,DUBAI SPORTS 2 HD
